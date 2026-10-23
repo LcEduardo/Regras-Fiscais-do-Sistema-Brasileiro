@@ -11,6 +11,7 @@ Rejeicao: Falha no Schema XML da NFe (Elemento: enviNFe/NFe[1]/infNFe/det[1]/pro
 > A mensagem cita `enviNFe/NFe` porque a NFC-e usa o mesmo leiaute de XML da NF-e. O que diferencia os dois é o modelo (`<mod>65</mod>`).
 
 Voltar para: [[MOC - Retornos]]
+Tags envolvidas: `cEAN` e `cEANTrib` em [Layout XML — NFC-e](../../4%20-%20Layout%20XML/NFC-e%20(modelo%2065).md)
 
 
 ## Causa

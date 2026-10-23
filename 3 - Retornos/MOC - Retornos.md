@@ -47,5 +47,7 @@ _Nenhuma rejeição documentada ainda._
 
 ## Relacionados
 
+• Pasta `4 - Layout XML` — o que significa cada tag do XML (NF-e, NFC-e e NFS-e), para identificar a tag citada na rejeição
+
 • [[carta-de-correção]] — o que pode ser corrigido após a autorização da NF-e
 • [[Emissão de NF-e em operação interestadual]] — regra de CFOP que evita rejeição em vendas para outro estado

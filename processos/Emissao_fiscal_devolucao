@@ -1,0 +1,18 @@
+No sistema da OficinaSoft, a emissão fiscal de devolução é um processo que até a data de hoje é feito pelo time técnico. Por conta disso, precisamos solicitar aos clientes algumas dados. 
+
+# Nota fiscal de devolução:
+Dados necessários para emissão da nota fiscal de devolução:
+- CFOP: 5202
+- Número do pedido de devolução
+- Info. Complementares (se houver): Placa TCC4A44
+- Chave de acesso da nota fiscal de venda (NF-e) que está sendo devolvida
+
+## Nota fiscal de remessa:
+Alguns clientes, como 6861, precisam enviar uma nota fiscal de remessa junto com a nota fiscal de venda. 
+
+Os seguintes dados são necessários:
+- CFOP: 6923 (Normalmente)
+- Número do pedido de devolução
+- Info. Complementares (se houver): Placa TCC4A44
+- Info. Local de entrega (se houver): Rua das Flores, 123, Bairro Jardim, Cidade XYZ. E CNP: 12.345.678/0001-90
+
