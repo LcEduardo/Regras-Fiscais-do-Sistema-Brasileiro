@@ -31,6 +31,7 @@ A ideia é reunir, em linguagem simples, o que o suporte e o desenvolvimento pre
 • `cest.md` — quando informar o CEST, formato do código e correlação com o NCM.
 • `devolução.md` — cálculo do ICMS na devolução (crédito e débito), campos da NF-e e CFOP.
 • `remessa.md` — remessas (venda à ordem 5.923/6.923, conserto, comodato etc.) e o CFOP 5.949.
+• `recusa-de-mercadorias.md` — quem emite a nota na recusa total ou parcial (nova regra de SP a partir de 01/01/2027).
 
 ### 3 - Retornos
 • `MOC - Retornos.md` — índice das rejeições documentadas. **Comece por aqui.**
