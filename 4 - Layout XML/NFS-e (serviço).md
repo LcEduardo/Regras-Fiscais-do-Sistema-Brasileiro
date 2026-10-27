@@ -85,7 +85,7 @@ DPS
 | `cServ` → `xDescServ` | Descrição do serviço prestado. | Texto 1–2000 | S |
 | `cServ` → `cNBS` | Código da Nomenclatura Brasileira de Serviços. | 9 dígitos | C |
 
-**Exemplo (Teresina):** Código Complementar Municipal `14.01.01.045` → `cTribNac` = `140101` e `cTribMun` = `045`. Ver [Configuração Teresina](../clientes/Teresína/Configuração.md).
+**Exemplo (Teresina):** Código Complementar Municipal `14.01.01.045` → `cTribNac` = `140101` e `cTribMun` = `045`. Ver [Configuração Teresina](<../5 - Estados/PI/Teresina/Configuração.md>).
 
 
 ## valores — Valores e tributação
@@ -126,4 +126,4 @@ Para prefeituras que não usam o Padrão Nacional.
 
 | Município | Observação |
 |---|---|
-| Teresina (PI) | Série via webservice entre **10001 e 49999**. A série 00001 é reservada para emissão no próprio sistema municipal. Ver [Configuração Teresina](../clientes/Teresína/Configuração.md). |
+| Teresina (PI) | Série via webservice entre **10001 e 49999**. A série 00001 é reservada para emissão no próprio sistema municipal. Ver [Configuração Teresina](<../5 - Estados/PI/Teresina/Configuração.md>). |

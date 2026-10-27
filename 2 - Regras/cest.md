@@ -75,6 +75,6 @@ Alguns itens (Anexo XXVII do Convênio ICMS 142/2018) não se sujeitam à ST qua
 
 • O CEST deve ficar no **cadastro do produto**, junto com o NCM — não deve ser escolhido na hora da emissão.
 • Ao alterar o NCM de um produto, revisar o CEST (pode deixar de existir ou mudar).
-• Quando uma UF retira um produto da ST (ex.: SP com autopeças em 2026), o CEST **continua** sendo informado na nota. Ver [regra_icms_st_sp_autopecas.md](../reforma_tributaria/regra_icms_st_sp_autopecas.md).
+• Quando uma UF retira um produto da ST (ex.: SP com autopeças em 2026), o CEST **continua** sendo informado na nota. Ver [regra_icms_st_sp_autopecas.md](<../5 - Estados/SP/regra_icms_st_sp_autopecas.md>).
 • Acompanhar as alterações do Convênio ICMS 142/2018 (os Anexos são atualizados com frequência por novos convênios).
 • Erro de CEST em nota já autorizada: em regra é corrigível por CC-e, por não alterar base de cálculo, alíquota nem valor do imposto — confirmar com a contabilidade quando o erro mudar o enquadramento na ST. Ver [carta-de-correção.md](carta-de-correção.md).
