@@ -213,7 +213,7 @@ Mesma estrutura nos dois. Grupos: `PISAliq`, `PISNT`, `PISOutr`... e `COFINSAliq
 
 ### IBS e CBS (Reforma Tributária)
 
-Grupo novo, criado pela NT 2025.002 (ver pasta `reforma_tributaria`). Confirme sempre a versão vigente da NT.
+Grupo novo, criado pela NT 2025.002 (ver pasta `5 - Reforma Tributária`). Confirme sempre a versão vigente da NT.
 
 | Tag | O que é | Formato | Obrig. |
 |---|---|---|---|
@@ -301,7 +301,7 @@ Dados da empresa que desenvolveu o sistema emissor.
 | Tag | O que é |
 |---|---|
 | `retEnviNFe` | Resposta ao envio do lote. |
-| `cStat` | **Código do resultado.** 100 = autorizada · 103 = lote recebido · 104 = lote processado · demais = rejeição (ver pasta `3 - Retornos`). |
+| `cStat` | **Código do resultado.** 100 = autorizada · 103 = lote recebido · 104 = lote processado · demais = rejeição (ver pasta `2 - Retornos`). |
 | `xMotivo` | Descrição do resultado (a mensagem da rejeição). |
 | `nRec` | Número do recibo, usado para consultar o lote no modo assíncrono. |
 | `protNFe` / `infProt` | Protocolo de cada nota. |

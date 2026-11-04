@@ -42,12 +42,14 @@ _Nenhuma rejeição documentada ainda._
 
 ## NFS-e — Serviço
 
-_Nenhuma rejeição documentada ainda._
+| Código | Rejeição | Assunto |
+|---|---|---|
+| E0120 | [[E0120 - IM do prestador não deve ser informada]] | Prestador / Inscrição Municipal (Padrão Nacional, inclui E0116) |
 
 
 ## Relacionados
 
-• Pasta `4 - Layout XML` — o que significa cada tag do XML (NF-e, NFC-e e NFS-e), para identificar a tag citada na rejeição
+• Pasta `3 - Layout XML` — o que significa cada tag do XML (NF-e, NFC-e e NFS-e), para identificar a tag citada na rejeição
 
 • [[carta-de-correção]] — o que pode ser corrigido após a autorização da NF-e
 • [[Emissão de NF-e em operação interestadual]] — regra de CFOP que evita rejeição em vendas para outro estado

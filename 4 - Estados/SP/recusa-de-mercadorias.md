@@ -68,4 +68,4 @@ Caso: a NF-e de devolução foi emitida, o fornecedor recusou e o prazo de cance
 
 ## Ver também
 
-• Regras de devolução: `2 - Regras/devolução.md`.
+• Regras de devolução: `1 - Regras/devolução.md`.

@@ -84,7 +84,7 @@ A nota não é validada contra a duplicata, mas **a duplicata precisa correspond
 | `dup` → `dVenc` | Vencimento da duplicata |
 | `dup` → `vDup` | Valor da duplicata |
 
-Detalhes das tags: `4 - Layout XML/NF-e (modelo 55).md`, seção **cobr — Cobrança**.
+Detalhes das tags: `3 - Layout XML/NF-e (modelo 55).md`, seção **cobr — Cobrança**.
 
 
 ## Casos especiais
@@ -122,7 +122,7 @@ Detalhes das tags: `4 - Layout XML/NF-e (modelo 55).md`, seção **cobr — Cobr
 
 ## Ver também
 
-• Recusa de mercadorias: `5 - Estados/SP/recusa-de-mercadorias.md`.
-• Devolução: `2 - Regras/devolução.md`.
-• Carta de Correção: `2 - Regras/carta-de-correção.md`.
-• Remessas e CFOP 5.949: `2 - Regras/remessa.md`.
+• Recusa de mercadorias: `4 - Estados/SP/recusa-de-mercadorias.md`.
+• Devolução: `1 - Regras/devolução.md`.
+• Carta de Correção: `1 - Regras/carta-de-correção.md`.
+• Remessas e CFOP 5.949: `1 - Regras/remessa.md`.

@@ -73,5 +73,5 @@ Exemplo (devolução parcial):
 ## Ver também
 
 • Processo interno de emissão: `processos/Emissao_fiscal_devolucao`.
-• Remessas (inclusive a 6.923 que acompanha a devolução) e CFOP 5.949: `2 - Regras/remessa.md`.
-• Devolução recusada pelo fornecedor: `5 - Estados/SP/recusa-de-mercadorias.md`.
+• Remessas (inclusive a 6.923 que acompanha a devolução) e CFOP 5.949: `1 - Regras/remessa.md`.
+• Devolução recusada pelo fornecedor: `4 - Estados/SP/recusa-de-mercadorias.md`.

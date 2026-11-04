@@ -213,7 +213,7 @@ Fica fora do `infNFe`, entre ele e a `Signature`.
 
 | Tag | O que é |
 |---|---|
-| `cStat` | **Código do resultado.** 100 = autorizado · 104 = lote processado · demais = rejeição (ver pasta `3 - Retornos`). |
+| `cStat` | **Código do resultado.** 100 = autorizado · 104 = lote processado · demais = rejeição (ver pasta `2 - Retornos`). |
 | `xMotivo` | Descrição do resultado (mensagem da rejeição). |
 | `chNFe` | Chave de acesso do cupom. |
 | `nProt` | Número do protocolo de autorização. |
