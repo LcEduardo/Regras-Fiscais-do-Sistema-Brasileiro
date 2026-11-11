@@ -4,6 +4,16 @@
 
 ---
 
+## Em uma frase
+
+**NCM enquadrado + emitente revendedor = CST 04, grupo `PISNT`/`COFINSNT`, sem base de cálculo, alíquota ou valor.**
+
+- **O produto monofásico se identifica pelo NCM.** Para autopeças, a lista de NCMs está nos Anexos I e II da Lei 10.485/02, e a Tabela 4.3.10 traz as alíquotas concentradas.
+- **O tributo já foi pago no topo da cadeia**, pelo fabricante ou importador, com alíquota concentrada (CST 02, ou 01).
+- **O revendedor não recolhe PIS/COFINS na venda** porque a lei fixa alíquota zero. O CST 04 é como ele informa isso na nota, e só vale se o NCM estiver mesmo enquadrado.
+
+---
+
 ## 1. O que é tributação monofásica
 
 Tributação monofásica é a cobrança de um tributo **uma única vez na cadeia**, em geral pelo fabricante ou importador, com **alíquota maior (concentrada)**. Nas revendas seguintes (atacado e varejo), a receita fica com **alíquota zero**.
