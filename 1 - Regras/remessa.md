@@ -82,5 +82,5 @@ Tratar o 5.949 como "CFOP sem imposto" e zerar o ICMS sem base legal. Isso gera 
 
 ## Ver também
 
-• Regras de devolução: `2 - Regras/devolução.md`.
+• Regras de devolução: `1 - Regras/devolução.md`.
 • Processo interno (devolução + remessa): `processos/Emissao_fiscal_devolucao`.
