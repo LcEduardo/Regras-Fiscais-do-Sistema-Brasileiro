@@ -33,6 +33,7 @@ A ideia é reunir, em linguagem simples, o que o suporte e o desenvolvimento pre
 • `duplicata-escritural.md` — o que é a escrituradora, quando o registro é obrigatório (jul/2027) e a relação com o grupo `cobr` da NF-e.
 • `devolução.md` — cálculo do ICMS na devolução (crédito e débito), campos da NF-e e CFOP.
 • `iss-retido.md` — ISS retido pelo tomador: valor líquido, campo `tpRetISSQN` da NFS-e Nacional (NT 009 / E0655) e alíquota no Simples Nacional.
+• `pis-cofins-monofasico.md` — PIS/COFINS monofásico de autopeças e pneus: Tabela 4.3.10, CST 04 x 02 x 06 (grupo `PISNT`), segregação no PGDAS-D e o fim do regime com a CBS em 2027.
 • `remessa.md` — remessas (venda à ordem 5.923/6.923, conserto, comodato etc.) e o CFOP 5.949.
 
 ### 2 - Retornos
