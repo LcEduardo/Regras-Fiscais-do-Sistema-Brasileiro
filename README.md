@@ -32,6 +32,7 @@ A ideia é reunir, em linguagem simples, o que o suporte e o desenvolvimento pre
 • `cest.md` — quando informar o CEST, formato do código e correlação com o NCM.
 • `duplicata-escritural.md` — o que é a escrituradora, quando o registro é obrigatório (jul/2027) e a relação com o grupo `cobr` da NF-e.
 • `devolução.md` — cálculo do ICMS na devolução (crédito e débito), campos da NF-e e CFOP.
+• `iss-retido.md` — ISS retido pelo tomador: valor líquido, campo `tpRetISSQN` da NFS-e Nacional (NT 009 / E0655) e alíquota no Simples Nacional.
 • `remessa.md` — remessas (venda à ordem 5.923/6.923, conserto, comodato etc.) e o CFOP 5.949.
 
 ### 2 - Retornos
